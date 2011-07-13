@@ -21,7 +21,7 @@ Provincia.create(:id => 17, :nombre => 'Girona');
 Provincia.create(:id => 18, :nombre => 'Granada');
 Provincia.create(:id => 19, :nombre => 'Guadalajara');
 Provincia.create(:id => 20, :nombre => 'Guipuzcoa');
-Provincia.create(:id => 21, :nombre => 'Huelve');
+Provincia.create(:id => 21, :nombre => 'Huelva');
 Provincia.create(:id => 22, :nombre => 'Huesca');
 Provincia.create(:id => 23, :nombre => 'Jaén');
 Provincia.create(:id => 24, :nombre => 'León');
